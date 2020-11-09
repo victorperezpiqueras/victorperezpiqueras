@@ -1,6 +1,14 @@
 <h1 align="center">Hi, I'm Víctor Pérez Piqueras</h1>
 <h3 align="center">A software engineer from Spain</h3>
 
+<p align="center">
+        <img src="https://img.shields.io/static/v1?label=status&message=studying&color=blue">
+ <img src="https://img.shields.io/static/v1?label=coffee&message=98%&color=success">
+  <img src="https://img.shields.io/static/v1?label=build&message=failed&color=red">
+        <img src="https://img.shields.io/static/v1?label=failed??%20are%20you%20serious&message=%20i%20checked%20it%2070%20times&color=red">
+</p>
+
+        
 <h3 align="center">Connect with me:</h3>
 <p align="center">
         <a href="https://linkedin.com/in/víctor-pérez-piqueras" target="blank"><img align="center"
@@ -19,7 +27,7 @@
 Here I leave a list of my repos, grouped by theme:
 
 
-<h3 align="left">Web Apps</h3>
+## Web Apps
 
 - [bombergame](https://github.com/victorperezpiqueras/bombergame)<a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
@@ -39,7 +47,6 @@ Here I leave a list of my repos, grouped by theme:
                 src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"
                 height="40" /></a>
 
-
 - [Funkoshop](https://github.com/victorperezpiqueras/Funkoshop)<a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
                 src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
@@ -57,7 +64,6 @@ Here I leave a list of my repos, grouped by theme:
                         src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"
                         height="40" /></a>
 
-
 - [PictoTrainer](https://github.com/victorperezpiqueras/PictoTrainer)<a href="https://angular.io"
         target="_blank"> <img
                 src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg"
@@ -71,9 +77,7 @@ Here I leave a list of my repos, grouped by theme:
                 src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"
                 height="40" /></a>
 
-
-
-<h3 align="left">Bots</h3>
+## Bots
 
 - [minecraft-discord-bot](https://github.com/victorperezpiqueras/minecraft-discord-bot)<a
         href="https://nodejs.org" target="_blank"> <img
@@ -82,8 +86,7 @@ Here I leave a list of my repos, grouped by theme:
                 src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"
                 height="40" /></a>
 
-
-<h3 align="left">Security and cryptography</h3>
+## Security and cryptography
 
 - [enigma](https://github.com/victorperezpiqueras/enigma)<a href="https://www.java.com" target="_blank"> <img
                 src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"
@@ -94,8 +97,7 @@ Here I leave a list of my repos, grouped by theme:
                 src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"
                 alt="python" width="40" height="40" /> </a>
 
-
-<h3 align="left">Virtual and Augmented Reality</h3>
+## Virtual and Augmented Reality
 
 - [raytracing](https://github.com/victorperezpiqueras/raytracing)<a href="https://www.w3schools.com/cpp/"
         target="_blank"> <img
@@ -105,7 +107,7 @@ Here I leave a list of my repos, grouped by theme:
                 src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"
                 alt="visualstudio" width="20" height="20" /> </a>
 
-<h3 align="left">Computer science</h3>
+## Computer science
 
 - [IntSys_A1-SearchSpace](https://github.com/victorperezpiqueras/IntSys_A1-SearchSpace)<a
         href="https://www.java.com" target="_blank"> <img
@@ -140,7 +142,7 @@ Here I leave a list of my repos, grouped by theme:
                 height="20" />
 </a>
 
-<h3 align="left">Distributed computing</h3>
+## Distributed computing
 
 - [SDist_P2-Publish-Subscribe-EJB-JMS](https://github.com/victorperezpiqueras/SDist_P2-Publish-Subscribe-EJB-JMS)<a
         href="https://www.java.com" target="_blank"> <img
@@ -153,9 +155,7 @@ Here I leave a list of my repos, grouped by theme:
                 alt="java" width="40" height="40" /> </a>
 
 
----
-
-<h1 align="left">My skills</h1>
+# My skills
 
 
 <p align="left">

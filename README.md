@@ -17,14 +17,22 @@
 
 
 Here I leave a list of my repos, grouped by theme:
-<h3 align="left">Computer science:</h3>
+<h3 align="left">Computer science</h3>
 
 - [IntSys_A1-SearchSpace](https://github.com/victorperezpiqueras/IntSys_A1-SearchSpace)
 - [IntSys_A2-ReinforcementLearning](https://github.com/victorperezpiqueras/IntSys_A2-ReinforcementLearning)
 - [IntSys_A3-Metaheuristics](https://github.com/victorperezpiqueras/IntSys_A3-Metaheuristics)
-- [AAaD_A1-GreedyAlgorithm](https://github.com/victorperezpiqueras/AAaD_A1-GreedyAlgorithm)
-- [AAaD_A2-DynamicProgramming](https://github.com/victorperezpiqueras/AAaD_A2-DynamicProgramming)
-- [AAaD_A3-BacktrackingProgramming](https://github.com/victorperezpiqueras/AAaD_A3-BacktrackingProgramming)
+- [AAaD_A1-GreedyAlgorithm](https://github.com/victorperezpiqueras/AAaD_A1-GreedyAlgorithm)<a href="https://www.cprogramming.com/" target="_blank"> <img
+        src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20" />
+</a>
+
+- [AAaD_A2-DynamicProgramming](https://github.com/victorperezpiqueras/AAaD_A2-DynamicProgramming)<a href="https://www.cprogramming.com/" target="_blank"> <img
+        src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20" />
+</a>
+
+- [AAaD_A3-BacktrackingProgramming](https://github.com/victorperezpiqueras/AAaD_A3-BacktrackingProgramming)<a href="https://www.cprogramming.com/" target="_blank"> <img
+        src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20" />
+</a>
 
 <h3 align="left">Security and cryptography</h3>
 
@@ -47,7 +55,7 @@ Here I leave a list of my repos, grouped by theme:
 
 ---
 
-<h1 align="left">My skills:</h1>
+<h1 align="left">My skills</h1>
 
 
 <p align="left">

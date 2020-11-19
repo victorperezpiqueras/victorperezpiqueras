@@ -8,6 +8,10 @@
         <img src="https://img.shields.io/static/v1?label=failed??%20are%20you%20serious&message=%20i%20checked%20it%2070%20times&color=red">
 </p>
 
+<p align="center">
+       <a href="https://www.scrum.org/user/746391" target="_blank"><img src="https://static.scrum.org/web/open-badges/psmi.png" height="70"></a>
+</p>
+
         
 <h3 align="center">Connect with me:</h3>
 <p align="center">

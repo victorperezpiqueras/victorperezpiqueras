@@ -228,13 +228,11 @@ Here I leave a list of my repos, grouped by theme:
                         src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"
                         height="40" /> </a>
      
-<h3 align="left">Devops</h3>
-        
+<h3 align="left">Devops</h3>      
 <a href="https://aws.amazon.com" target="_blank"> <img
                         src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
                         alt="aws" width="40" height="40" />
- </a>
-                        
+ </a>                      
 <a href="https://travis-ci.org" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci"
                 width="40" height="40" />
@@ -242,9 +240,7 @@ Here I leave a list of my repos, grouped by theme:
         <a href="https://heroku.com" target="_blank"> <img
                         src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"
                         height="40" /> </a>
-                        
 <h3 align="left">Others</h3>
-
 <a href="https://flask.palletsprojects.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"
                 width="40" height="40" />
@@ -252,16 +248,13 @@ Here I leave a list of my repos, grouped by theme:
 <a href="https://www.mathworks.com/" target="_blank"> <img
                 src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg"
                 alt="matlab" width="40" height="40" /> </a>
-
 <a href="https://www.chartjs.org" target="_blank"> <img
                 src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40"
                 height="40" /> </a>   
-
 <a href="https://postman.com" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
                 width="40" height="40" />
 </a>
-
 <a href="https://unrealengine.com/" target="_blank"> <img
                 src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg"
                 alt="unreal" width="40" height="40" /> </a>

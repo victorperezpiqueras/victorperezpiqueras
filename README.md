@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Víctor Pérez Piqueras</h1>
 <h3 align="center">A software engineer from Spain</h3>
 
+
 <p align="center">
         <img src="https://img.shields.io/static/v1?label=status&message=studying&color=blue">
  <img src="https://img.shields.io/static/v1?label=coffee&message=98%&color=success">
@@ -257,8 +258,11 @@ Here I leave a list of my repos, grouped by theme:
 </a>
 <a href="https://unrealengine.com/" target="_blank"> <img
                 src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg"
-                alt="unreal" width="40" height="40" /> </a>
-</p>
+                alt="unreal" width="40" height="40" /> 
+</a>
 <a href="https://git-scm.com/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
-                height="40" /> </a>
+                height="40" /> 
+</a>
+
+</p>

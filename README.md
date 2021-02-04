@@ -63,7 +63,7 @@ Here I leave a list of my repos, grouped by theme:
                         src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
                         alt="nodejs" height="40" /> </a><a href="https://expressjs.com" target="_blank"> <img
                         src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
-                        alt="express" width="40" height="30" /> </a><a href="https://www.mongodb.com/" target="_blank">
+                        alt="express" height="30" /> </a><a href="https://www.mongodb.com/" target="_blank">
                 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
                         alt="mongodb" height="40" /> </a><a href="https://heroku.com" target="_blank"> <img
                         src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"
@@ -76,7 +76,7 @@ Here I leave a list of my repos, grouped by theme:
                 src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
                 alt="nodejs" height="40" /> </a><a href="https://expressjs.com" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
-                alt="express" width="40" height="30" /> </a><a href="https://www.mysql.com/" target="_blank">
+                alt="express" height="30" /> </a><a href="https://www.mysql.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"
                 alt="mysql" height="40" /> </a><a href="https://heroku.com" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"
@@ -99,18 +99,18 @@ Here I leave a list of my repos, grouped by theme:
 
 - [diffie-hellman](https://github.com/victorperezpiqueras/diffie-hellman)<a href="https://www.python.org"
         target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"
-                alt="python" width="40" height="40" /> </a>
+                src="https://www.vectorlogo.zone/logos/python/python-icon.svg"
+                alt="python"  height="40" /> </a>
 
 ## Virtual and Augmented Reality
 
 - [raytracing](https://github.com/victorperezpiqueras/raytracing)<a href="https://www.w3schools.com/cpp/"
         target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"
-                alt="cplusplus" width="20" height="20" /> </a><a href="https://visualstudio.microsoft.com"
+                src="https://cdn.worldvectorlogo.com/logos/c.svg"
+                alt="cplusplus" height="40" /> </a><a href="https://visualstudio.microsoft.com"
         target="_blank"> <img
                 src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"
-                alt="visualstudio" width="20" height="20" /> </a>
+                alt="visualstudio" height="40" /> </a>
                 
 - [FuseButton](https://github.com/victorperezpiqueras/FuseButton)<a href="https://unrealengine.com/" target="_blank"> <img
                         src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg"
@@ -140,19 +140,19 @@ Here I leave a list of my repos, grouped by theme:
 - [AAaD_A1-GreedyAlgorithm](https://github.com/victorperezpiqueras/AAaD_A1-GreedyAlgorithm)<a
         href="https://www.cprogramming.com/" target="_blank"> <img
                 src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" alt="c" 
-                height="20" />
+                height="40" />
 </a>
 
 - [AAaD_A2-DynamicProgramming](https://github.com/victorperezpiqueras/AAaD_A2-DynamicProgramming)<a
         href="https://www.cprogramming.com/" target="_blank"> <img
                 src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" alt="c" 
-                height="20" />
+                height="40" />
 </a>
 
 - [AAaD_A3-BacktrackingProgramming](https://github.com/victorperezpiqueras/AAaD_A3-BacktrackingProgramming)<a
         href="https://www.cprogramming.com/" target="_blank"> <img
                 src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" alt="c" 
-                height="20" />
+                height="40" />
 </a>
 
 ## Distributed computing
@@ -178,11 +178,11 @@ Here I leave a list of my repos, grouped by theme:
                          height="40" />
         </a>
         <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"
-                        alt="cplusplus" width="40" height="40" /> </a>
+                        src="https://cdn.worldvectorlogo.com/logos/c.svg"
+                        alt="cplusplus" height="40" /> </a>
         <a href="https://www.w3schools.com/cs/" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg"
-                        alt="csharp" width="40" height="40" /> </a>
+                        src="https://cdn.worldvectorlogo.com/logos/c--4.svg"
+                        alt="csharp" height="40" /> </a>
         <a href="https://www.java.com" target="_blank"> <img
                         src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"
                         alt="java" width="40" /> </a>
@@ -190,28 +190,28 @@ Here I leave a list of my repos, grouped by theme:
                         src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"
                         alt="javascript" width="40" height="40" /> </a>
         <a href="https://www.typescriptlang.org/" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
-                        alt="typescript" width="40" height="40" /> </a>
+                        src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
+                        alt="typescript" height="40" /> </a>
         <a href="https://www.python.org" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"
-                        alt="python" width="40" height="40" /> </a>
+                        src="https://www.vectorlogo.zone/logos/python/python-icon.svg"
+                        alt="python" height="40" /> </a>
         <h3 align="left">Frontend Development</h3>
         <a href="https://angular.io" target="_blank"> <img
                         src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
                         alt="angularjs" width="40" height="40" /> </a>
         <a href="https://www.w3schools.com/css/" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"
-                        alt="css3" width="40" height="40" /> </a>
+                        src="https://cdn.worldvectorlogo.com/logos/css3.svg"
+                        alt="css3" height="40" /> </a>
         <a href="https://www.w3.org/html/" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"
-                        alt="html5" width="40" height="40" /> </a>
+                        src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"
+                        alt="html5" height="40" /> </a>
         <h3 align="left">Backend Development</h3>
         <a href="https://nodejs.org" target="_blank"> <img
                         src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
                         alt="nodejs" height="40" /> </a>
         <a href="https://expressjs.com" target="_blank"> <img
                         src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
-                        alt="express" width="40" height="40" /> </a>
+                        alt="express" height="40" /> </a>
         <h3 align="left">Databases</h3>
         <a href="https://www.mongodb.com/" target="_blank"> <img
                         src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
@@ -220,19 +220,19 @@ Here I leave a list of my repos, grouped by theme:
                         src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"
                         alt="mysql" height="40" /> </a>
         <a href="https://www.oracle.com/" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg"
-                        alt="oracle" width="40" height="40" /> </a>
+                        src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg"
+                        alt="oracle" height="10" /> </a>
         <a href="https://www.postgresql.org" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
-                        alt="postgresql" width="40" height="40" /> </a>
+                        src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"
+                        alt="postgresql" height="40" /> </a>
         <a href="https://www.sqlite.org/" target="_blank"> <img
                         src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"
                         height="40" /> </a>
      
 <h3 align="left">Devops</h3>      
 <a href="https://aws.amazon.com" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-                        alt="aws" width="40" height="40" />
+                        src="https://cdn.worldvectorlogo.com/logos/aws-2.svg"
+                        alt="aws" height="20" />
  </a>                      
 <a href="https://travis-ci.org" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci"

@@ -36,16 +36,16 @@ Here I leave a list of my repos, grouped by theme:
 
 - [bombergame](https://github.com/victorperezpiqueras/bombergame)<a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+                src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"
                 alt="javascript" width="40" height="40" /> </a><a href="https://getbootstrap.com/" target="_blank"> <img
                 src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                 alt="c" width="40" height="40" /> </a><a href="https://nodejs.org" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
-                alt="nodejs" width="40" height="40" /> </a><a href="https://expressjs.com" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg"
-                alt="express" width="40" height="30" /> </a><a href="https://www.mongodb.com/" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
-                alt="mongodb" width="40" height="40" /> </a><a href="https://travis-ci.org" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
+                alt="nodejs" height="40" /> </a><a href="https://expressjs.com" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
+                alt="express" height="30" /> </a><a href="https://www.mongodb.com/" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
+                alt="mongodb" height="40" /> </a><a href="https://travis-ci.org" target="_blank"> <img
                         src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci"
                         width="40" height="40" />
         </a><a href="https://heroku.com" target="_blank"> <img
@@ -54,31 +54,31 @@ Here I leave a list of my repos, grouped by theme:
 
 - [Funkoshop](https://github.com/victorperezpiqueras/Funkoshop)<a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+                src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"
                 alt="javascript" width="40" height="40" /> </a><a href="https://getbootstrap.com/" target="_blank"> <img
                 src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                 alt="c" width="40" height="40" /> </a><a href="https://handlebarsjs.com/" target="_blank"> <img
                 src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg"
                 alt="handlebars" width="40" height="40" /><a href="https://nodejs.org" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
-                        alt="nodejs" width="40" height="40" /> </a><a href="https://expressjs.com" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg"
+                        src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
+                        alt="nodejs" height="40" /> </a><a href="https://expressjs.com" target="_blank"> <img
+                        src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
                         alt="express" width="40" height="30" /> </a><a href="https://www.mongodb.com/" target="_blank">
-                <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
-                        alt="mongodb" width="40" height="40" /> </a><a href="https://heroku.com" target="_blank"> <img
+                <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
+                        alt="mongodb" height="40" /> </a><a href="https://heroku.com" target="_blank"> <img
                         src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"
                         height="40" /></a>
 
 - [PictoTrainer](https://github.com/victorperezpiqueras/PictoTrainer)<a href="https://angular.io"
         target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg"
+                src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
                 alt="angularjs" width="40" height="40" /> </a><a href="https://nodejs.org" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
-                alt="nodejs" width="40" height="40" /> </a><a href="https://expressjs.com" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg"
+                src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
+                alt="nodejs" height="40" /> </a><a href="https://expressjs.com" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
                 alt="express" width="40" height="30" /> </a><a href="https://www.mysql.com/" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"
-                alt="mysql" width="40" height="40" /> </a><a href="https://heroku.com" target="_blank"> <img
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"
+                alt="mysql" height="40" /> </a><a href="https://heroku.com" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"
                 height="40" /></a>
 
@@ -86,16 +86,16 @@ Here I leave a list of my repos, grouped by theme:
 
 - [minecraft-discord-bot](https://github.com/victorperezpiqueras/minecraft-discord-bot)<a
         href="https://nodejs.org" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
-                alt="nodejs" width="40" height="40" /> </a><a href="https://heroku.com" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
+                alt="nodejs" height="40" /> </a><a href="https://heroku.com" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"
                 height="40" /></a>
 
 ## Security and cryptography
 
 - [enigma](https://github.com/victorperezpiqueras/enigma)<a href="https://www.java.com" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"
-                alt="java" width="40" height="40" /> </a>
+                src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"
+                alt="java" width="40"  /> </a>
 
 - [diffie-hellman](https://github.com/victorperezpiqueras/diffie-hellman)<a href="https://www.python.org"
         target="_blank"> <img
@@ -124,34 +124,34 @@ Here I leave a list of my repos, grouped by theme:
 
 - [IntSys_A1-SearchSpace](https://github.com/victorperezpiqueras/IntSys_A1-SearchSpace)<a
         href="https://www.java.com" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"
-                alt="java" width="40" height="40" /> </a>
+                src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"
+                alt="java" width="40" /> </a>
 
 - [IntSys_A2-ReinforcementLearning](https://github.com/victorperezpiqueras/IntSys_A2-ReinforcementLearning)<a
         href="https://www.java.com" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"
-                alt="java" width="40" height="40" /> </a>
+                src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"
+                alt="java" width="40" /> </a>
 
 - [IntSys_A3-Metaheuristics](https://github.com/victorperezpiqueras/IntSys_A3-Metaheuristics)<a
         href="https://www.java.com" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"
-                alt="java" width="40" height="40" /> </a>
+                src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"
+                alt="java" width="40" /> </a>
 
 - [AAaD_A1-GreedyAlgorithm](https://github.com/victorperezpiqueras/AAaD_A1-GreedyAlgorithm)<a
         href="https://www.cprogramming.com/" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20"
+                src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" alt="c" 
                 height="20" />
 </a>
 
 - [AAaD_A2-DynamicProgramming](https://github.com/victorperezpiqueras/AAaD_A2-DynamicProgramming)<a
         href="https://www.cprogramming.com/" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20"
+                src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" alt="c" 
                 height="20" />
 </a>
 
 - [AAaD_A3-BacktrackingProgramming](https://github.com/victorperezpiqueras/AAaD_A3-BacktrackingProgramming)<a
         href="https://www.cprogramming.com/" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20"
+                src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" alt="c" 
                 height="20" />
 </a>
 
@@ -159,13 +159,13 @@ Here I leave a list of my repos, grouped by theme:
 
 - [SDist_P2-Publish-Subscribe-EJB-JMS](https://github.com/victorperezpiqueras/SDist_P2-Publish-Subscribe-EJB-JMS)<a
         href="https://www.java.com" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"
-                alt="java" width="40" height="40" /> </a>
+                src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"
+                alt="java" width="40"/> </a>
 
 - [SDist_P4-Multienvio-no-ordenado-RMI](https://github.com/victorperezpiqueras/SDist_P4-Multienvio-no-ordenado-RMI)<a
         href="https://www.java.com" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"
-                alt="java" width="40" height="40" /> </a>
+                src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"
+                alt="java" width="40" /> </a>
 
 
 # My skills
@@ -174,8 +174,8 @@ Here I leave a list of my repos, grouped by theme:
 <p align="left">
         <h3 align="left">Programming Languages</h3>
         <a href="https://www.cprogramming.com/" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c"
-                        width="40" height="40" />
+                        src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" alt="c"
+                         height="40" />
         </a>
         <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
                         src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"
@@ -184,10 +184,10 @@ Here I leave a list of my repos, grouped by theme:
                         src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg"
                         alt="csharp" width="40" height="40" /> </a>
         <a href="https://www.java.com" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"
-                        alt="java" width="40" height="40" /> </a>
+                        src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"
+                        alt="java" width="40" /> </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+                        src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"
                         alt="javascript" width="40" height="40" /> </a>
         <a href="https://www.typescriptlang.org/" target="_blank"> <img
                         src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
@@ -197,7 +197,7 @@ Here I leave a list of my repos, grouped by theme:
                         alt="python" width="40" height="40" /> </a>
         <h3 align="left">Frontend Development</h3>
         <a href="https://angular.io" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg"
+                        src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
                         alt="angularjs" width="40" height="40" /> </a>
         <a href="https://www.w3schools.com/css/" target="_blank"> <img
                         src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"
@@ -207,18 +207,18 @@ Here I leave a list of my repos, grouped by theme:
                         alt="html5" width="40" height="40" /> </a>
         <h3 align="left">Backend Development</h3>
         <a href="https://nodejs.org" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
-                        alt="nodejs" width="40" height="40" /> </a>
+                        src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
+                        alt="nodejs" height="40" /> </a>
         <a href="https://expressjs.com" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg"
+                        src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
                         alt="express" width="40" height="40" /> </a>
         <h3 align="left">Databases</h3>
         <a href="https://www.mongodb.com/" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
-                        alt="mongodb" width="40" height="40" /> </a>
+                        src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
+                        alt="mongodb" height="40" /> </a>
         <a href="https://www.mysql.com/" target="_blank"> <img
-                        src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"
-                        alt="mysql" width="40" height="40" /> </a>
+                        src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"
+                        alt="mysql" height="40" /> </a>
         <a href="https://www.oracle.com/" target="_blank"> <img
                         src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg"
                         alt="oracle" width="40" height="40" /> </a>

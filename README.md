@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Víctor Pérez Piqueras</h1>
+<h1 align="center">I'm Víctor Pérez Piqueras</h1>
 <h3 align="center">A software engineer from Spain</h3>
 
 
@@ -19,17 +19,19 @@
         <a href="https://linkedin.com/in/víctor-pérez-piqueras" target="blank"><img align="center"
                         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
                         alt="víctor-pérez-piqueras" height="30" width="40" /></a>
+        <a href="https://twitter.com/vperezpiqueras" target="blank"><img align="center"
+                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
+                        alt="vperezpiqueras" height="30" width="40" /></a>
 </p>
 
 ---
 
 
-<p><img align="center"
+<img align="top" height="195"
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=victorperezpiqueras&show_icons=true&locale=en&layout=compact"
-                alt="victorperezpiqueras" /></p>
+                alt="victorperezpiqueras" /> ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorperezpiqueras&show_icons=true)
 
-
-Here I leave a list of my repos, grouped by theme:
+A list of my repos, grouped by theme:
 
 
 ## Web Apps

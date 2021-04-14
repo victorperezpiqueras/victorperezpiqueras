@@ -25,11 +25,12 @@
 </p>
 
 ---
-
-
+    
 <img align="top" height="195"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=victorperezpiqueras&show_icons=true&locale=en&layout=compact"
-                alt="victorperezpiqueras" /> ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorperezpiqueras&show_icons=true)
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=victorperezpiqueras&show_icons=true&locale=en&layout=compact&theme=vue"
+                alt="victorperezpiqueras" /> ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorperezpiqueras&show_icons=true&theme=vue)
+
+<!--- &hide=c%2B%2B,c --->
 
 A list of my repos, grouped by theme:
 

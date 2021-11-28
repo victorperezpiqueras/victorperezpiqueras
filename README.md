@@ -5,8 +5,7 @@
 <p align="center">
         <img src="https://img.shields.io/static/v1?label=status&message=studying&color=blue">
  <img src="https://img.shields.io/static/v1?label=coffee&message=98%&color=success">
-  <img src="https://img.shields.io/static/v1?label=build&message=failed&color=red">
-        <img src="https://img.shields.io/static/v1?label=failed??%20are%20you%20serious&message=%20i%20checked%20it%2070%20times&color=red">
+
 </p>
 
 <p align="center">
@@ -32,7 +31,7 @@
 
 <!--- &hide=c%2B%2B,c --->
 
-[![victorperezpiqueras wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=victorperezpiqueras)](https://github.com/anuraghazra/github-readme-stats)
+[![victorperezpiqueras wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=victorperezpiqueras&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 # Projects 
 

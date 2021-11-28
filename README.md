@@ -32,9 +32,13 @@
 
 <!--- &hide=c%2B%2B,c --->
 
-A list of my repos, grouped by theme:
+[![victorperezpiqueras wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=victorperezpiqueras)](https://github.com/anuraghazra/github-readme-stats)
 
+# Projects 
 
+<details>
+<summary>Details</summary>
+        
 ## Web Apps
 
 - [bombergame](https://github.com/victorperezpiqueras/bombergame)<a
@@ -177,10 +181,14 @@ A list of my repos, grouped by theme:
                 src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"
                 alt="java" width="40" /> </a>
 
-
+</details>
+        
+        
 # My skills
 
-
+<details>
+<summary>Details</summary>
+        
 <p align="left">
         <h3 align="left">Programming Languages</h3>
         <a href="https://www.cprogramming.com/" target="_blank"> <img
@@ -276,3 +284,4 @@ A list of my repos, grouped by theme:
 </a>
 
 </p>
+</details>

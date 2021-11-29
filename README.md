@@ -3,9 +3,9 @@
 
 
 <p align="center">
-        <img src="https://img.shields.io/static/v1?label=status&message=working&color=blue">
- <img src="https://img.shields.io/static/v1?label=coffee&message=98%&color=success">
-
+        <img src="https://img.shields.io/static/v1?label=status&message=working&color=orange&logo=Angular">
+        <img src="https://img.shields.io/static/v1?label=coffee&message=98%&color=success&logo=CoffeeScript">
+        <img src="https://wakatime.com/badge/user/4df54159-9e00-499f-af2b-ba8419be0f68.svg?logo=appveyor">
 </p>
 
 <p align="center">

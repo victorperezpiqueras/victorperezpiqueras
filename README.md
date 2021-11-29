@@ -3,7 +3,7 @@
 
 
 <p align="center">
-        <img src="https://img.shields.io/static/v1?label=status&message=studying&color=blue">
+        <img src="https://img.shields.io/static/v1?label=status&message=working&color=blue">
  <img src="https://img.shields.io/static/v1?label=coffee&message=98%&color=success">
 
 </p>
@@ -31,7 +31,7 @@
 
 <!--- &hide=c%2B%2B,c --->
 
-[![victorperezpiqueras wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=victorperezpiqueras&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=victorperezpiqueras&layout=compact&theme=vue&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 # Projects 
 

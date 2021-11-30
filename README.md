@@ -6,7 +6,10 @@
         <img src="https://img.shields.io/static/v1?label=status&message=working&color=orange&logo=Angular">
         <img src="https://img.shields.io/static/v1?label=coffee&message=98%&color=success&logo=CoffeeScript">
         <img src="https://wakatime.com/badge/user/4df54159-9e00-499f-af2b-ba8419be0f68.svg?logo=appveyor">
+         <img src="https://komarev.com/ghpvc/?username=victorperezpiqueras&color=ff69b4">
+
 </p>
+
 
 <p align="center">
        <a href="https://www.scrum.org/user/746391" target="_blank"><img src="https://static.scrum.org/web/open-badges/psmi.png" height="70"></a>

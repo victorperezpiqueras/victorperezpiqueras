@@ -12,7 +12,7 @@
 
 
 <p align="center">
-       <a href="https://www.scrum.org/user/746391" target="_blank"><img src="https://static.scrum.org/web/open-badges/psmi.png" height="70"></a>
+       <a href="https://www.scrum.org/user/746391" target="_blank"><img src="https://static.scrum.org/web/open-badges/psmii.png" height="70"></a>
 </p>
 
         
@@ -21,9 +21,6 @@
         <a href="https://linkedin.com/in/víctor-pérez-piqueras" target="blank"><img align="center"
                         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
                         alt="víctor-pérez-piqueras" height="30" width="40" /></a>
-        <a href="https://twitter.com/vperezpiqueras" target="blank"><img align="center"
-                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
-                        alt="vperezpiqueras" height="30" width="40" /></a>
 </p>
 
 ---
